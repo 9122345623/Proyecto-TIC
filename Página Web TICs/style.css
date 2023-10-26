@@ -1,0 +1,47 @@
+/* Change the background color of the blockquote element */
+blockquote {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+/* Style the h1 element within the blockquote */
+/* Style the container for the centered element */
+.container.mx-auto {
+    text-align: center;
+}
+
+/* Change the background color and text color of custom column padding elements */
+.col-6 .bg-light {
+    background-color: #854dec;
+    color: red;
+}
+
+#contenedor2{
+    background-color: #ff5151;
+}
+
+.titulobg{
+    background-image: url("warplane.jpg"), url("warplane.png");
+    background-color: transparent;
+  }
+
+#carga{
+    color: rgb rgb(0, 0, 0);
+    font-family: "Times New Roman", Times, serif;
+}
+
+#combate{
+    color: rgb(187, 9, 9);
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  #comer{
+    color: rgb(12, 9, 187);
+    font-family: "Times New Roman", Times, serif;
+  }
+
+#desarrollo{
+    font-family: "Times New Roman", Times, serif;
+  }
+/* Add custom styles to the "NextShit" section */
+/* For example, changing the background color and text color */
